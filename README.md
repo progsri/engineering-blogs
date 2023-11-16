@@ -25,7 +25,6 @@
 
 #### \# companies
 * 8th Light https://8thlight.com/blog/
-* 99designs https://99designs.com/tech-blog/
 
 #### A companies
 * Advanced Web Machinery https://advancedweb.hu/
