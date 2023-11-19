@@ -37,28 +37,15 @@
 * Badoo https://techblog.badoo.com/
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
-----------
-* BitTorrent http://engineering.bittorrent.com/
-* BlaBlaCar http://blablatech.com/blog/
-* BlackRock http://rockthecode.io/
-* Blender https://code.blender.org/
-* Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
-* Boxever http://www.boxever.com/blog/
-* Brandwatch http://engineering.brandwatch.com/
 
 #### C companies
 * Canva https://engineering.canva.com
 * Capgemini https://capgemini.github.io/
-* CenturyLink https://www.ctl.io/developers/blog
-* Cerner http://engineering.cerner.com/
-* Chaps https://blog.chaps.io/
-* Chartbeat http://engineering.chartbeat.com/
-* Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
-* CloudBees https://www.previous.cloudbees.com/blog
-* Cloudera https://blog.cloudera.com/
+* CloudBees https://www.previous.cloudbees.com/blog ?
 * Cloudflare https://blog.cloudflare.com/
+  --------------------
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
