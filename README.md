@@ -2,6 +2,8 @@
 
 ### [Articles](#Articles-1)
 
+### [Python](#Python-1)
+
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -30,6 +32,8 @@
 * Cassandra - A Decentralized Structured Storage System https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
 * MapReduce: Simplified Data Processing on Large Clusters https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
 * Bigtable: A Distributed Storage System for Structured Data https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+
+### Python
 * Python design patterns https://python-patterns.guide/
 
 ### Companies
