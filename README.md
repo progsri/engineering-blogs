@@ -1,5 +1,7 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+### [Articles](#Articles-1)
+
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -21,7 +23,13 @@
 | [I](#i-technologies) 	| [J](#j-technologies) 	| [K](#k-technologies) 	| [L](#l-technologies) 	| [M](#m-technologies) 	| [N](#n-technologies) 	| [O](#o-technologies) 	| [P](#p-technologies) 	| [Q](#q-technologies) 	|
 | [R](#r-technologies) 	| [S](#s-technologies) 	| [T](#t-technologies) 	| [U](#u-technologies) 	| [V](#v-technologies) 	| [W](#w-technologies) 	| [X](#x-technologies) 	| [Y](#y-technologies) 	| [Z](#z-technologies)  	|
 
-### [Articles](#Articles-1)
+### Articles
+* Dynamo: Amazon’s Highly Available Key-value Store https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+* The Google file system https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+* Spanner: Google’s Globally-Distributed Database https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+* Cassandra - A Decentralized Structured Storage System https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+* MapReduce: Simplified Data Processing on Large Clusters https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+* Bigtable: A Distributed Storage System for Structured Data https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 
 ### Companies
 
@@ -740,9 +748,6 @@
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
-
-### Articles
-* Dynamo: Amazon’s Highly Available Key-value Store https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 ----
 
