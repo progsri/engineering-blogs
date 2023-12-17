@@ -74,16 +74,15 @@
 * Crowdfire https://crowdfire.engineering/
 * Curalate http://engineering.curalate.com/
 
----------------
 #### D companies
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
-* Discord https://blog.discordapp.com/
-* Docker https://blog.docker.com/
+* Discord https://discord.com/category/engineering
+* Docker https://www.docker.com/blog/category/engineering/
 * DoorDash https://blog.doordash.com/tagged/engineering
-* Doximity https://engineering.doximity.com
-* Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+
+---------------
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
