@@ -76,10 +76,6 @@
 
 ---------------
 #### D companies
-* Data Artisans https://data-artisans.com/blog/
-* Databricks https://databricks.com/blog
-* DataFox http://eng.datafox.co/
-* Deezer https://deezer.io/
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
