@@ -36,6 +36,9 @@
 ### Python
 * Python design patterns https://python-patterns.guide/
 
+### Java
+* Baeldung Weekly Review https://www.baeldung.com/category/weekly-review
+
 ### Companies
 
 #### \# companies
@@ -60,25 +63,18 @@
 * Clever https://engineering.clever.com/
 * CloudBees https://www.previous.cloudbees.com/blog ?
 * Cloudflare https://blog.cloudflare.com/
-  --------------------
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
-* Codementor https://www.codementor.io/tutorial
-* CodeName One http://www.codenameone.com/blog.html
-* Codeship https://blog.codeship.com/
-* Coinbase https://engineering.coinbase.com/
 * Commercetools https://techblog.commercetools.com/
-* Condé Nast https://technology.condenast.com/
-* Confluent https://www.confluent.io/blog
-* Convox https://convox.com/blog
+* Confluent https://www.confluent.io/blog 
 * Coolblue http://devblog.coolblue.nl/
 * Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
-* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
 * Curalate http://engineering.curalate.com/
 
+---------------
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
