@@ -37,6 +37,7 @@
 
 ### Python
 * Python design patterns https://python-patterns.guide/
+* Python speed https://pythonspeed.com/
 
 ### Java
 * Baeldung Weekly Review https://www.baeldung.com/category/weekly-review
